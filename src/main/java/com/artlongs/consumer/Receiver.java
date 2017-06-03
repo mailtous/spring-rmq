@@ -1,6 +1,5 @@
 package com.artlongs.consumer;
 
-import com.artlongs.annotation.FanoutLicListener;
 import com.artlongs.producer.JsonConverter;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
